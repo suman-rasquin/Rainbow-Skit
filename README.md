@@ -1,2 +1,2 @@
 # Rainbow-Skit
-A skit about rainbow
+This is a skit about rainbow. Really an interesting one.
